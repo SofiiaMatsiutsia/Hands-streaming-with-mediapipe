@@ -1,0 +1,7 @@
+{
+  "name": "Real-time Hand Detector",
+  "description": "A web application that uses your webcam to detect and visualize hand landmarks in real-time using the MediaPipe framework.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
